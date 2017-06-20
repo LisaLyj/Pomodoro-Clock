@@ -1,3 +1,3 @@
-# fcc-Pomodoro_Clock
+# Pomodoro_Clock
 
-free code camp advanced front-end project Pomodoro Clock.
+pomodora clock using html/css/javascript.
